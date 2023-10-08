@@ -1,0 +1,6 @@
+---
+- name: Configure Server
+  hosts: servers
+  roles:
+    - role: nginx
+    - role: postgresql
