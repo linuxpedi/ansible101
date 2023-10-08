@@ -1,10 +1,10 @@
 # Ansible 101: Ubuntu/Debian Sunucuları için Nginx ve PostgreSQL Kurulumu
 
-Bu repo, [linuxpedi.com](https://linuxpedi.com)’da yayınlanan Ansible yazısında kullanılan örnek projenin bir parçasıdır. Proje, Ansible'ın temel bileşenlerini - inventory, playbooks, roles, tasks, handlers, templates, ve variables - tanıtır ve bir Ubuntu/Debian sunucusunda Nginx ve PostgreSQL kurulumunu otomatikleştirmek için bu bileşenleri nasıl kullanacağınızı gösterir.
+Bu repo, [linuxpedi.com](https://linuxpedi.com)’da yayınlanan Ansible yazısında kullanılan örnek projenin bir parçasıdır. Proje, Ansible'ın temel bileşenlerini - inventory, playbooks, roles, tasks, handlers, templates, ve variables - tanıtır ve bir Ubuntu/Debian sunucusunda Nginx kurulumunu otomatikleştirmek için bu bileşenleri nasıl kullanacağınızı gösterir.
 
 ## Özellikler
 
-- Nginx ve PostgreSQL'in en son sürümlerinin otomatik kurulumu.
+- Nginx otomatik kurulumu ve konfigurasyon.
 - Ansible best practices'e uygun proje yapılandırması.
 
 ## Kurulum
