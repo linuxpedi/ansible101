@@ -11,7 +11,7 @@ Bu repo, [linuxpedi.com](https://linuxpedi.com)’da yayınlanan Ansible yazıs�
 
 1. `inventory.ini` dosyasını kendi ortamınıza göre güncelleyin.
 2. Sunucunuzu yapılandırmak için aşağıdaki komutu çalıştırın:
-    **ansible-playbook playbook.yml**
+    **ansible-playbook -i inventory.ini playbook.yml**
 
 ## Katılım
 
